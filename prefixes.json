@@ -1,5 +1,6 @@
 {
     "ppri": "Pear-VBA/PPrint",
     "pstr": "Pear-VBA/PStrings",
-    "pth": "Pear-VBA/PyPath"
+    "pth": "Pear-VBA/PyPath",
+    "pcol": "Pear-VBA/PCollections"
 }
